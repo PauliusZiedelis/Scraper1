@@ -1,0 +1,28 @@
+2019-02-01 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 75.59 EUR
+2019-02-02 Don`t flying
+2019-02-03 from: Oslo-Gardermoen to: Riga trip time: 18:45 - 21:15cheapest price: 31.83 EUR
+2019-02-04 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 31.83 EUR
+2019-02-05 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 31.83 EUR
+2019-02-06 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 31.83 EUR
+2019-02-07 from: Oslo-Gardermoen to: Riga trip time: 18:45 - 21:15cheapest price: 128.83 EUR
+2019-02-08 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 47.91 EUR
+2019-02-09 Don`t flying
+2019-02-10 from: Oslo-Gardermoen to: Riga trip time: 18:45 - 21:15cheapest price: 31.83 EUR
+2019-02-11 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 31.83 EUR
+2019-02-12 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 31.83 EUR
+2019-02-13 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 31.83 EUR
+2019-02-14 from: Oslo-Gardermoen to: Riga trip time: 18:45 - 21:15cheapest price: 75.59 EUR
+2019-02-15 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 86.24 EUR
+2019-02-16 Don`t flying
+2019-02-17 from: Oslo-Gardermoen to: Riga trip time: 18:45 - 21:15cheapest price: 54.30 EUR
+2019-02-18 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 54.30 EUR
+2019-02-19 from: Oslo-Gardermoen to: Riga trip time: 08:30 - 13:35cheapest price: 77.18 EUR
+2019-02-20 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 47.91 EUR
+2019-02-21 from: Oslo-Gardermoen to: Riga trip time: 18:45 - 21:15cheapest price: 75.59 EUR
+2019-02-22 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 47.91 EUR
+2019-02-23 Don`t flying
+2019-02-24 from: Oslo-Gardermoen to: Riga trip time: 11:40 - 14:10cheapest price: 31.83 EUR
+2019-02-25 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 31.83 EUR
+2019-02-26 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 31.83 EUR
+2019-02-27 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 54.30 EUR
+2019-02-28 from: Oslo-Gardermoen to: Riga trip time: 11:20 - 13:50cheapest price: 42.59 EUR
